@@ -26,6 +26,7 @@ h1 {
   text-align: center;
   font-size: 3.5rem;
   margin-bottom: 1rem;
+  padding-left: 20px;
   font-family: 'Noto Serif JP', serif;
 }
 
@@ -34,15 +35,15 @@ h2 {
   font-size: 2.5rem;
   font-style: italic;
   font-weight: 350;
-  text-align: center;
   margin: 15px 0;
+  text-align: center;
   padding: 0;
+  padding-left: 50px;
   font-family: 'Noto Serif JP', serif;
 }
 
 p {
   margin: 1px 0;
-  text-align: left;
   font-size: 21px;
   padding: 18px;
   padding-bottom: 7px;
@@ -50,7 +51,7 @@ p {
 }
 
 
-.line-separator {
+.poem__line-separator {
   height: 2px;
   background-color: var(--gray-4);
   width: 100%;
@@ -60,8 +61,8 @@ p {
 
 footer {
   margin-top: 40px;
-  text-align: center;
   color: $footer-text-color;
+  padding-left: 110px;
 
   a {
     color: $primary-color;
