@@ -29,3 +29,9 @@ Use this as the "Publish command" if needed by hosting services such as Netlify.
 ## Resources
 
 <small>The starter was inspired by [11ty Sass Skeleton](https://github.com/5t3ph/11ty-sass-skeleton) by [@5t3ph](https://twitter.com/5t3ph)</small>
+
+
+Poem (https://www.public-domain-poetry.com/john-frederick-freeman/pond-15943)
+
+Image (https://unsplash.com/photos/two-orange-and-white-koi-fish-swimming-in-a-pond-gsfO9nicpeU)
+
